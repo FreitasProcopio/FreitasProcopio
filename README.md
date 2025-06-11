@@ -94,12 +94,16 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/pedro-procópio-7476b5284" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <a href="mailto:pedroprocopio75@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo" />
+  </a>
 </div>
+
 
 ###
 
