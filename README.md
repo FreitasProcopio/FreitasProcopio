@@ -2,7 +2,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=Quicksand&pause=2000&color=F7F7F7&vCenter=true&width=435&lines=Welcome+!;My+name+is+Pedro.;I+have+20+year+old+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=735&lines=Welcome!+My+name+is+Pedro.+I+have+21+years+old!)](https://git.io/typing-svg)
 
 ###
 
