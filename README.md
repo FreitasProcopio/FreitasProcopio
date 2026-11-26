@@ -1,12 +1,17 @@
-<h1 align="left">👋🏿  Hi there ! How are you ?</h1>
+<h1 align="left">👋🏿 Hi, I'm Pedro Procópio</h1>
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=735&lines=Welcome!+My+name+is+Pedro.+I+have+21+years+old!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=735&lines=Full-Stack+%26+Data+Developer;Computer+Science+student+at+IBMR;Open+to+internships+and+junior+roles)](https://git.io/typing-svg)
 
 ###
 
-<p align="left">Young Student of Science Computer at IBMR Barra and Full stack web programming at Programadores do Amanhã.<br><br>Collaborator, Teamwork, Leader, Innovator</p>
+<p align="left">
+Full-stack and data developer based in <b>Rio de Janeiro, Brazil</b>, pursuing a B.Sc. in Computer Science at IBMR. I trained in full-stack web development at Programadores do Amanhã.<br><br>
+I focus on software that removes repetitive work and scales to real data: a desktop ETL tool that processes <b>over 1.2 million rows</b> on a standard laptop, an automation that cut computer-lab resets from <b>~3 hours to 10 minutes</b>, and an accessibility app built at a <b>hackathon hosted at Google São Paulo</b>.<br><br>
+🎯 Open to <b>internships and junior roles</b> in full-stack, back-end or data engineering, including remote positions.<br>
+🌎 Portuguese (native) · English
+</p>
 
 ###
 
@@ -23,13 +28,13 @@
 
 ###
 
-| Project | What it is | Stack |
+| Project | Description | Tech |
 |---|---|---|
-| **[Refina](https://github.com/FreitasProcopio/Refine_Dados)** | Desktop ETL app: Bronze → Silver → Gold layers, deduplication, joins with key diagnostics, aggregations, Excel/Parquet export and scheduled “recipes”. Handles 1.2M+ rows without running out of RAM. | Python · PySide6 · DuckDB · pandas |
-| **[HearU](https://github.com/FreitasProcopio/Inovathion)** · [live demo](https://freitasprocopio.github.io/Inovathion/fala_voz.html) | Communication board for non-verbal people: tap a card, the app speaks the phrase. Built at Inovathon WTM 2025 (Google São Paulo). | JavaScript · Web Speech API |
+| **[Refina](https://github.com/FreitasProcopio/refina-etl)** | Desktop ETL app: Bronze → Silver → Gold layers, deduplication, joins with key diagnostics, aggregations, Excel/Parquet export and scheduled “recipes”. Handles 1.2M+ rows without running out of RAM. | Python · PySide6 · DuckDB · pandas |
+| **[HearU](https://github.com/FreitasProcopio/hearu)** · [live demo](https://freitasprocopio.github.io/hearu/fala_voz.html) | Communication board for non-verbal people: tap a card, the app speaks the phrase. Built in a team at the Inovathon WTM 2025 hackathon (Google São Paulo). | JavaScript · Web Speech API |
 | **[Integra Biblio](https://github.com/FreitasProcopio/Totem-Integra)** | Library kiosk with a chat that recommends books, with full-text search in Portuguese and row-level security. | React · Vite · Supabase · PostgreSQL |
-| **[API WAW](https://github.com/FreitasProcopio/api-waw)** | REST API in layers (routes, controllers, services, models), with automated tests and docs. | Node.js · Express · Prisma · Jest |
-| **[GCPW Profile Cleaner](https://github.com/FreitasProcopio/Apagar_Perfis)** | Script that resets shared Windows lab computers: a 10-PC room went from ~3 h to 10 min. | AutoHotkey · PowerShell |
+| **[API WAW](https://github.com/FreitasProcopio/waw-api)** | REST API in layers (routes, controllers, services, models), with automated tests and docs. | Node.js · Express · Prisma · Jest |
+| **[GCPW Profile Cleaner](https://github.com/FreitasProcopio/gcpw-profile-cleaner)** | Automation that resets shared Windows lab computers, cutting a 10-PC room from ~3 h to 10 min. | AutoHotkey · PowerShell |
 
 ###
 
@@ -37,7 +42,7 @@
 
 ###
 
-<h4 align="left">Back End</h4>
+<h4 align="left">Back-End & Data</h4>
 
 ###
 
@@ -65,11 +70,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
 
-<h4 align="left">Front End</h4>
+<h4 align="left">Front-End</h4>
 
 ###
 
@@ -89,7 +96,7 @@
 
 ###
 
-<h4 align="left">In learning</h4>
+<h4 align="left">Currently learning</h4>
 
 ###
 
@@ -97,13 +104,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
 
-<h2 align="left">Contacts</h2>
+<h2 align="left">📫 Contact</h2>
 
 ###
 
@@ -125,7 +130,7 @@
 
 ###
 
-<h2 align="left">⚙️  GitHub Analytics</h2>
+<h2 align="left">⚙️ Contribution activity</h2>
 
 ###
 
