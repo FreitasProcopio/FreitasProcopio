@@ -2,7 +2,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=735&lines=Computer+Science+student+at+IBMR;Full-stack+%26+Data+developer;Open+to+internships+and+junior+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=735&lines=Computer+Science+student+at+IBMR;Full-stack+%26+Data+developer;Open+to+internships+and+junior+roles)](https://git.io/typing-svg)
 
 ###
 
@@ -95,7 +95,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" title="Tailwind CSS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" title="Bootstrap" />
   <img width="12" />
@@ -146,7 +146,7 @@
   </a>
   <img width="12" />
   <a href="https://freitasprocopio.github.io/PortFolio/src/pages/index.html" target="_blank">
-    <img src="https://cdn.simpleicons.org/githubpages/888888" height="40" alt="portfolio logo" title="Portfolio" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="portfolio logo" title="Portfolio" />
   </a>
 </div>
 
