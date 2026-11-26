@@ -1,120 +1,44 @@
-<h1 align="left">👋🏿  Hi there ! How are you ?</h1>
+# Hi, I'm Pedro Procópio 👋
 
-###
+**Computer Science student (IBMR) · Full-stack & Data developer · Rio de Janeiro, Brazil**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=735&lines=Welcome!+My+name+is+Pedro.+I+have+21+years+old!)](https://git.io/typing-svg)
+I like building tools that remove real, repetitive work. At the school where I worked in IT, I automated
+lab resets from **~3 hours to 10 minutes**. I also built a desktop ETL app that processes
+**over a million rows on an ordinary laptop**, and an accessibility app at a **hackathon held at Google São Paulo**.
 
-###
+🎯 **Open to internships and junior roles** in Full-stack, Back-end or Data.
 
-<p align="left">Young Student of Science Computer at IBMR Barra and Full stack web programming at Programadores do Amanhã.<br><br>Collaborator, Teamwork, Leader, Innovator</p>
+---
 
-###
+## ⭐ Featured projects
 
-<br clear="both">
+| Project | What it is | Stack |
+|---|---|---|
+| **[Refina](https://github.com/FreitasProcopio/Refine_Dados)** | Desktop ETL app: Bronze → Silver → Gold layers, deduplication, joins with key diagnostics, aggregations, Excel/Parquet export and scheduled “recipes”. Handles 1.2M+ rows without running out of RAM. | Python · PySide6 · DuckDB · pandas |
+| **[HearU](https://github.com/FreitasProcopio/Inovathion)** · [live demo](https://freitasprocopio.github.io/Inovathion/fala_voz.html) | Communication board for non-verbal people: tap a card, the app speaks the phrase. Built at Inovathon WTM 2025 (Google São Paulo). | JavaScript · Web Speech API |
+| **[Integra Biblio](https://github.com/FreitasProcopio/Totem-Integra)** | Library kiosk with a chat that recommends books, with full-text search in Portuguese and row-level security. | React · Vite · Supabase · PostgreSQL |
+| **[API WAW](https://github.com/FreitasProcopio/api-waw)** | REST API in layers (routes, controllers, services, models), with automated tests and docs. | Node.js · Express · Prisma · Jest |
+| **[GCPW Profile Cleaner](https://github.com/FreitasProcopio/Apagar_Perfis)** | Script that resets shared Windows lab computers: a 10-PC room went from ~3 h to 10 min. | AutoHotkey · PowerShell |
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api username=FreitasProcopio&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FreitasProcopio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div> -->
+---
 
-###
+## 🛠️ Tech stack
 
-<h2 align="left">🛠️ Tech Stack</h2>
+**Languages:** JavaScript · TypeScript · Python · SQL · PHP<br>
+**Back-end:** Node.js · Express · Prisma · REST APIs · Jest<br>
+**Data:** DuckDB · pandas · PostgreSQL · MySQL · Supabase<br>
+**Front-end:** React · Next.js · HTML · CSS · Tailwind · Bootstrap<br>
+**Tools:** Git · GitHub Actions · Vite · Figma<br>
+**Learning now:** Docker
 
-###
+---
 
-<h4 align="left">Back End</h4>
+## 📫 Contact
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Proc%C3%B3pio-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-procópio-7476b5284)
+[![Email](https://img.shields.io/badge/Email-pedroprocopio75%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:pedroprocopio75@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?logo=githubpages&logoColor=white)](https://freitasprocopio.github.io/PortFolio/src/pages/index.html)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+---
 
-###
-
-<h4 align="left">Front End</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h4 align="left">In learning</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<h2 align="left">Contacts</h2>
-
-###
-
-<div align="left">
-  <img width="12" />
-  <a href="https://www.linkedin.com/in/pedro-procópio-7476b5284" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
-  </a>
-  <img width="12" />
-  <a href="mailto:pedroprocopio75@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo" />
-  </a>
-</div>
-
-
-###
-
-<p align="left"></p>
-
-###
-
-<h2 align="left">⚙️  GitHub Analytics</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/FreitasProcopio/FreitasProcopio/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/FreitasProcopio/FreitasProcopio/output/snake.svg" alt="Contribution snake animation" />
