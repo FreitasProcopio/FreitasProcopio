@@ -10,7 +10,7 @@
 Full-stack and data developer based in <b>Rio de Janeiro, Brazil</b>, pursuing a B.Sc. in Computer Science at IBMR. I trained in full-stack web development at Programadores do Amanhã.<br><br>
 I focus on software that removes repetitive work and scales to real data: a desktop ETL tool that processes <b>over 1.2 million rows</b> on a standard laptop, an automation that cut computer-lab resets from <b>~3 hours to 10 minutes</b>, and an accessibility app built at a <b>hackathon hosted at Google São Paulo</b>.<br><br>
 🎯 Open to <b>internships and junior roles</b> in full-stack, back-end or data engineering, including remote positions.<br>
-🌎 Portuguese (native) · English
+🌎 Portuguese (native) · English (intermediate)
 </p>
 
 ###
