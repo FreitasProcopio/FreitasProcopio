@@ -1,16 +1,10 @@
 <h1 align="left">👋🏿 Hi, I'm Pedro Procópio</h1>
 
-###
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=735&lines=Full-Stack+%26+Data+Developer;Computer+Science+student+at+IBMR;Open+to+internships+and+junior+roles)](https://git.io/typing-svg)
-
-###
-
 <p align="left">
 Full-stack and data developer based in <b>Rio de Janeiro, Brazil</b>, pursuing a B.Sc. in Computer Science at IBMR. I trained in full-stack web development at Programadores do Amanhã.<br><br>
 I focus on software that removes repetitive work and scales to real data: a desktop ETL tool that processes <b>over 1.2 million rows</b> on a standard laptop, an automation that cut computer-lab resets from <b>~3 hours to 10 minutes</b>, and an accessibility app built at a <b>hackathon hosted at Google São Paulo</b>.<br><br>
 🎯 Open to <b>internships and junior roles</b> in full-stack, back-end or data engineering, including remote positions.<br>
-🌎 Portuguese (native) · English (intermediate)
+🌎 Portuguese (Native) · English (Professional) · Spanish (Basic) · German (Basic)
 </p>
 
 ###
