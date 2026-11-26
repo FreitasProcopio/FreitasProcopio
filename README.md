@@ -19,6 +19,20 @@
 
 ###
 
+<h2 align="left">⭐ Featured projects</h2>
+
+###
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Refina](https://github.com/FreitasProcopio/Refine_Dados)** | Desktop ETL app: Bronze → Silver → Gold layers, deduplication, joins with key diagnostics, aggregations, Excel/Parquet export and scheduled “recipes”. Handles 1.2M+ rows without running out of RAM. | Python · PySide6 · DuckDB · pandas |
+| **[HearU](https://github.com/FreitasProcopio/Inovathion)** · [live demo](https://freitasprocopio.github.io/Inovathion/fala_voz.html) | Communication board for non-verbal people: tap a card, the app speaks the phrase. Built at Inovathon WTM 2025 (Google São Paulo). | JavaScript · Web Speech API |
+| **[Integra Biblio](https://github.com/FreitasProcopio/Totem-Integra)** | Library kiosk with a chat that recommends books, with full-text search in Portuguese and row-level security. | React · Vite · Supabase · PostgreSQL |
+| **[API WAW](https://github.com/FreitasProcopio/api-waw)** | REST API in layers (routes, controllers, services, models), with automated tests and docs. | Node.js · Express · Prisma · Jest |
+| **[GCPW Profile Cleaner](https://github.com/FreitasProcopio/Apagar_Perfis)** | Script that resets shared Windows lab computers: a 10-PC room went from ~3 h to 10 min. | AutoHotkey · PowerShell |
+
+###
+
 <h2 align="left">🛠️ Tech Stack</h2>
 
 ###
